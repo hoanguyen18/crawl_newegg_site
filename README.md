@@ -1,9 +1,9 @@
 # crawl_newegg_site
 
-Problem Statement
+Problem Statement:
 After the decline in Bitcoin and other cryptocurrencies, the company needs to gather information about graphics cards through a website. The Data Engineer team is required to collect and analyze the information from the following category on the website: https://www.newegg.com, so that the business team can deploy a new campaign based on this data.
 
-Description
+Description:
 The data source to crawl is the following category: https://www.newegg.com/GPUs-Video-Graphics-Cards/SubCategory/ID-48?Tid=7709
 1// Information to be extracted:
 - ItemID
